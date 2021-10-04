@@ -1,6 +1,6 @@
-# Cashier REST API
+# GIC Contacts REST API
 
-Cashier REST API development with Lumen Laravel by Ihda Mukhoyar
+GIC Contacts REST API development with Lumen Laravel by Ihda Mukhoyar
 
 # Lumen PHP Framework
 
